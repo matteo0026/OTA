@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1671176619,
-      "filename": "lineage-16.0-20221216-UNOFFICIAL-millet3g.zip",
-      "id": "ac6i2hycrhoz9vudvkjktyqwo8hq6n6g",
+      "datetime": 1674747884,
+      "filename": "lineage-16.0-20230126-UNOFFICIAL-millet3g.zip",
+      "id": "ahfy2hcstrv8be9r3pf3i91zwhwuh8ws",
       "romtype": "UNOFFICIAL",
-      "size": 459885463,
-      "url": "https://github.com/matteo0026/OTA/releases/download/2.0/lineage-16.0-20221216-UNOFFICIAL-millet3g.zip",
+      "size": 460050052,
+      "url": "https://github.com/matteo0026/OTA/releases/download/3.0/lineage-16.0-20230126-UNOFFICIAL-millet3g.zip",
       "version": "16.0"
     }
   ]
