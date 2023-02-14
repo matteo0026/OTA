@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1675368750,
-      "filename": "lineage-18.1-20230202-UNOFFICIAL-milletltetmo.zip",
-      "id": "uofawbfp5magrtdw25q4djin65kbs9l5",
+      "datetime": 1676396746,
+      "filename": "lineage-18.1-20230214-UNOFFICIAL-milletltetmo.zip",
+      "id": "pgojc8jj1wa1tlum60d4btxe70z9ege3",
       "romtype": "UNOFFICIAL",
-      "size": 508698786,
-      "url": "https://github.com/matteo0026/OTA/releases/download/5.0/lineage-18.1-20230202-UNOFFICIAL-milletltetmo.zip",
+      "size": 509152571,
+      "url": "https://github.com/matteo0026/OTA/releases/download/6.0/lineage-18.1-20230214-UNOFFICIAL-milletltetmo.zip",
       "version": "18.1"
     }
   ]
