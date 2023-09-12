@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1689336533,
-      "filename": "lineage-18.1-20230714-UNOFFICIAL-milletwifi.zip",
-      "id": "r751vxahbcg0hogiygqckcbzingsafmx",
+      "datetime": 1694536861,
+      "filename": "lineage-18.1-20230912-UNOFFICIAL-milletwifi.zip",
+      "id": "bl9byb9et4krbjtpeiuvtj5x76uorye0",
       "romtype": "UNOFFICIAL",
-      "size": 491734561,
-      "url": "https://github.com/matteo0026/OTA/releases/download/9.0/lineage-18.1-20230714-UNOFFICIAL-milletwifi.zip",
+      "size": 492477272,
+      "url": "https://github.com/matteo0026/OTA/releases/download/11.0/lineage-18.1-20230912-UNOFFICIAL-milletwifi.zip",
       "version": "18.1"
     }
   ]
