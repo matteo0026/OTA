@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1676376906,
-      "filename": "lineage-17.1-20230214-UNOFFICIAL-matisse3g.zip",
-      "id": "0cqwubf10988gne2f6nw0nevft5gyg28",
+      "datetime": 1697644379,
+      "filename": "lineage-17.1-20231018-UNOFFICIAL-matisse3g.zip",
+      "id": "z15mdxfsl6jvam1fbl7nlrdowomz2gri",
       "romtype": "UNOFFICIAL",
-      "size": 473843599,
-      "url": "https://github.com/matteo0026/OTA/releases/download/7.0/lineage-17.1-20230214-UNOFFICIAL-matisse3g.zip",
+      "size": 473575632,
+      "url": "https://github.com/matteo0026/OTA/releases/download/12.0/lineage-17.1-20231018-UNOFFICIAL-matisse3g.zip",
       "version": "17.1"
     }
   ]
