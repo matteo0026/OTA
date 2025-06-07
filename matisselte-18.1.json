@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1725211971,
-      "filename": "lineage-18.1-20240901-UNOFFICIAL-matisselte.zip",
-      "id": "uiadk2p7ubsp69z6xor0gr9m45g5tjaz",
+      "datetime": 1749316855,
+      "filename": "lineage-18.1-20250607-UNOFFICIAL-matisselte.zip",
+      "id": "vsjq58k5kxmaqabm5y9t7iuja2c6hlyd",
       "romtype": "UNOFFICIAL",
-      "size": 519163374,
-      "url": "https://github.com/matteo0026/OTA/releases/download/15.0/lineage-18.1-20240901-UNOFFICIAL-matisselte.zip",
+      "size": 520852136,
+      "url": "https://github.com/matteo0026/OTA/releases/download/16.0/lineage-18.1-20250607-UNOFFICIAL-matisselte.zip",
       "version": "18.1"
     }
   ]
