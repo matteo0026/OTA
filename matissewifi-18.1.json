@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1749314391,
-      "filename": "lineage-18.1-20250607-UNOFFICIAL-matissewifi.zip",
-      "id": "7813xymkxwyt6r0recxruh1kfjzfhe94",
+      "datetime": 1766607986,
+      "filename": "lineage-18.1-20251224-UNOFFICIAL-matissewifi.zip",
+      "id": "r0i57qqb04zbb401jbrxfjdpfbs6r4zr",
       "romtype": "UNOFFICIAL",
-      "size": 501574255,
-      "url": "https://github.com/matteo0026/OTA/releases/download/16.0/lineage-18.1-20250607-UNOFFICIAL-matissewifi.zip",
+      "size": 503683155,
+      "url": "https://github.com/matteo0026/OTA/releases/download/17.0/lineage-18.1-20251224-UNOFFICIAL-matissewifi.zip",
       "version": "18.1"
     }
   ]
