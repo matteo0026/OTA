@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1697649706,
-      "filename": "lineage-17.1-20231018-UNOFFICIAL-milletltetmo.zip",
-      "id": "gzd0l1utbrx6ecybe7b97rgrvc0xi07m",
+      "datetime": 1766843423,
+      "filename": "lineage-17.1-20251227-UNOFFICIAL-milletltetmo.zip",
+      "id": "9wjoiln7p2sh0gduaz5ut1xnxv1oqsi5",
       "romtype": "UNOFFICIAL",
-      "size": 466516475,
-      "url": "https://github.com/matteo0026/OTA/releases/download/12.0/lineage-17.1-20231018-UNOFFICIAL-milletltetmo.zip",
+      "size": 425432325,
+      "url": "https://github.com/matteo0026/OTA/releases/download/18.0/lineage-17.1-20251227-UNOFFICIAL-milletltetmo.zip",
       "version": "17.1"
     }
   ]
